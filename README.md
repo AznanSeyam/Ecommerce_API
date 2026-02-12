@@ -4,12 +4,6 @@ A scalable and production-ready RESTful API for an e-commerce application built 
 
 ---
 
-## Overview
-
-Ecommerce API is designed to power a modern e-commerce platform. It provides secure authentication, structured database management, and modular architecture for scalability.
-
----
-
 ## Features
 
 - JWT Authentication
